@@ -1,0 +1,17 @@
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Infrastructure\SuperTravel.Infrastructure.ProxyRestCountries\bin\Debug\net6.0\SuperTravel.Infrastructure.ProxyRestCountries.deps.json
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Infrastructure\SuperTravel.Infrastructure.ProxyRestCountries\bin\Debug\net6.0\SuperTravel.Infrastructure.ProxyRestCountries.dll
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Infrastructure\SuperTravel.Infrastructure.ProxyRestCountries\bin\Debug\net6.0\SuperTravel.Infrastructure.ProxyRestCountries.pdb
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Infrastructure\SuperTravel.Infrastructure.ProxyRestCountries\bin\Debug\net6.0\SuperTravel.Core.Entities.dll
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Infrastructure\SuperTravel.Infrastructure.ProxyRestCountries\bin\Debug\net6.0\SuperTravel.Core.IRepositories.dll
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Infrastructure\SuperTravel.Infrastructure.ProxyRestCountries\bin\Debug\net6.0\SuperTravel.Core.Entities.pdb
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Infrastructure\SuperTravel.Infrastructure.ProxyRestCountries\bin\Debug\net6.0\SuperTravel.Core.IRepositories.pdb
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Infrastructure\SuperTravel.Infrastructure.ProxyRestCountries\obj\Debug\net6.0\SuperTravel.Infrastructure.ProxyRestCountries.csproj.AssemblyReference.cache
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Infrastructure\SuperTravel.Infrastructure.ProxyRestCountries\obj\Debug\net6.0\SuperTravel.Infrastructure.ProxyRestCountries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Infrastructure\SuperTravel.Infrastructure.ProxyRestCountries\obj\Debug\net6.0\SuperTravel.Infrastructure.ProxyRestCountries.AssemblyInfoInputs.cache
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Infrastructure\SuperTravel.Infrastructure.ProxyRestCountries\obj\Debug\net6.0\SuperTravel.Infrastructure.ProxyRestCountries.AssemblyInfo.cs
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Infrastructure\SuperTravel.Infrastructure.ProxyRestCountries\obj\Debug\net6.0\SuperTravel.Infrastructure.ProxyRestCountries.csproj.CoreCompileInputs.cache
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Infrastructure\SuperTravel.Infrastructure.ProxyRestCountries\obj\Debug\net6.0\SuperTravel.Infrastructure.ProxyRestCountries.csproj.CopyComplete
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Infrastructure\SuperTravel.Infrastructure.ProxyRestCountries\obj\Debug\net6.0\SuperTravel.Infrastructure.ProxyRestCountries.dll
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Infrastructure\SuperTravel.Infrastructure.ProxyRestCountries\obj\Debug\net6.0\refint\SuperTravel.Infrastructure.ProxyRestCountries.dll
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Infrastructure\SuperTravel.Infrastructure.ProxyRestCountries\obj\Debug\net6.0\SuperTravel.Infrastructure.ProxyRestCountries.pdb
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Infrastructure\SuperTravel.Infrastructure.ProxyRestCountries\obj\Debug\net6.0\ref\SuperTravel.Infrastructure.ProxyRestCountries.dll

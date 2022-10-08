@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SuperTravel.Core.DTOs\SuperTravel.Core.DTOs.csproj" />
+    <ProjectReference Include="..\SuperTravel.Core.Entities\SuperTravel.Core.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

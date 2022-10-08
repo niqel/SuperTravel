@@ -1,0 +1,763 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.InterfaceAdapter\\SuperTravel.InterfaceAdapter.WebApi\\SuperTravel.InterfaceAdapter.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Application\\SuperTravel.Application.UseCases\\SuperTravel.Application.UseCases.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Application\\SuperTravel.Application.UseCases\\SuperTravel.Application.UseCases.csproj",
+        "projectName": "SuperTravel.Application.UseCases",
+        "projectPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Application\\SuperTravel.Application.UseCases\\SuperTravel.Application.UseCases.csproj",
+        "packagesPath": "C:\\Users\\niqel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Application\\SuperTravel.Application.UseCases\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\niqel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.IRepositories\\SuperTravel.Core.IRepositories.csproj": {
+                "projectPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.IRepositories\\SuperTravel.Core.IRepositories.csproj"
+              },
+              "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.IUseCases\\SuperTravel.Core.IUseCases.csproj": {
+                "projectPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.IUseCases\\SuperTravel.Core.IUseCases.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.DTOs\\SuperTravel.Core.DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.DTOs\\SuperTravel.Core.DTOs.csproj",
+        "projectName": "SuperTravel.Core.DTOs",
+        "projectPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.DTOs\\SuperTravel.Core.DTOs.csproj",
+        "packagesPath": "C:\\Users\\niqel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\niqel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.Entities\\SuperTravel.Core.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.Entities\\SuperTravel.Core.Entities.csproj",
+        "projectName": "SuperTravel.Core.Entities",
+        "projectPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.Entities\\SuperTravel.Core.Entities.csproj",
+        "packagesPath": "C:\\Users\\niqel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\niqel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.IRepositories\\SuperTravel.Core.IRepositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.IRepositories\\SuperTravel.Core.IRepositories.csproj",
+        "projectName": "SuperTravel.Core.IRepositories",
+        "projectPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.IRepositories\\SuperTravel.Core.IRepositories.csproj",
+        "packagesPath": "C:\\Users\\niqel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.IRepositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\niqel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.DTOs\\SuperTravel.Core.DTOs.csproj": {
+                "projectPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.DTOs\\SuperTravel.Core.DTOs.csproj"
+              },
+              "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.Entities\\SuperTravel.Core.Entities.csproj": {
+                "projectPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.Entities\\SuperTravel.Core.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.IUseCases\\SuperTravel.Core.IUseCases.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.IUseCases\\SuperTravel.Core.IUseCases.csproj",
+        "projectName": "SuperTravel.Core.IUseCases",
+        "projectPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.IUseCases\\SuperTravel.Core.IUseCases.csproj",
+        "packagesPath": "C:\\Users\\niqel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.IUseCases\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\niqel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.DTOs\\SuperTravel.Core.DTOs.csproj": {
+                "projectPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.DTOs\\SuperTravel.Core.DTOs.csproj"
+              },
+              "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.Entities\\SuperTravel.Core.Entities.csproj": {
+                "projectPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.Entities\\SuperTravel.Core.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Infrastructure\\SuperTravel.Infrastructure.EFcoreSqlServer\\SuperTravel.Infrastructure.EFcoreSqlServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Infrastructure\\SuperTravel.Infrastructure.EFcoreSqlServer\\SuperTravel.Infrastructure.EFcoreSqlServer.csproj",
+        "projectName": "SuperTravel.Infrastructure.EFcoreSqlServer",
+        "projectPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Infrastructure\\SuperTravel.Infrastructure.EFcoreSqlServer\\SuperTravel.Infrastructure.EFcoreSqlServer.csproj",
+        "packagesPath": "C:\\Users\\niqel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Infrastructure\\SuperTravel.Infrastructure.EFcoreSqlServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\niqel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.IRepositories\\SuperTravel.Core.IRepositories.csproj": {
+                "projectPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.IRepositories\\SuperTravel.Core.IRepositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Infrastructure\\SuperTravel.Infrastructure.ProxyRestCountries\\SuperTravel.Infrastructure.ProxyRestCountries.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Infrastructure\\SuperTravel.Infrastructure.ProxyRestCountries\\SuperTravel.Infrastructure.ProxyRestCountries.csproj",
+        "projectName": "SuperTravel.Infrastructure.ProxyRestCountries",
+        "projectPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Infrastructure\\SuperTravel.Infrastructure.ProxyRestCountries\\SuperTravel.Infrastructure.ProxyRestCountries.csproj",
+        "packagesPath": "C:\\Users\\niqel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Infrastructure\\SuperTravel.Infrastructure.ProxyRestCountries\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\niqel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.Entities\\SuperTravel.Core.Entities.csproj": {
+                "projectPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.Entities\\SuperTravel.Core.Entities.csproj"
+              },
+              "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.IRepositories\\SuperTravel.Core.IRepositories.csproj": {
+                "projectPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.IRepositories\\SuperTravel.Core.IRepositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Newtonsoft.Json.Bson": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[108.0.2, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Infrastructure\\SuperTravel.Infrastructure.UnityOfWork\\SuperTravel.Infrastructure.UnityOfWork.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Infrastructure\\SuperTravel.Infrastructure.UnityOfWork\\SuperTravel.Infrastructure.UnityOfWork.csproj",
+        "projectName": "SuperTravel.Infrastructure.UnityOfWork",
+        "projectPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Infrastructure\\SuperTravel.Infrastructure.UnityOfWork\\SuperTravel.Infrastructure.UnityOfWork.csproj",
+        "packagesPath": "C:\\Users\\niqel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Infrastructure\\SuperTravel.Infrastructure.UnityOfWork\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\niqel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.IRepositories\\SuperTravel.Core.IRepositories.csproj": {
+                "projectPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Core\\SuperTravel.Core.IRepositories\\SuperTravel.Core.IRepositories.csproj"
+              },
+              "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Infrastructure\\SuperTravel.Infrastructure.EFcoreSqlServer\\SuperTravel.Infrastructure.EFcoreSqlServer.csproj": {
+                "projectPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Infrastructure\\SuperTravel.Infrastructure.EFcoreSqlServer\\SuperTravel.Infrastructure.EFcoreSqlServer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.InterfaceAdapter\\SuperTravel.InterfaceAdapter.IOCGetaway\\SuperTravel.InterfaceAdapter.IOCGetaway.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.InterfaceAdapter\\SuperTravel.InterfaceAdapter.IOCGetaway\\SuperTravel.InterfaceAdapter.IOCGetaway.csproj",
+        "projectName": "SuperTravel.InterfaceAdapter.IOCGetaway",
+        "projectPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.InterfaceAdapter\\SuperTravel.InterfaceAdapter.IOCGetaway\\SuperTravel.InterfaceAdapter.IOCGetaway.csproj",
+        "packagesPath": "C:\\Users\\niqel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.InterfaceAdapter\\SuperTravel.InterfaceAdapter.IOCGetaway\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\niqel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Application\\SuperTravel.Application.UseCases\\SuperTravel.Application.UseCases.csproj": {
+                "projectPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Application\\SuperTravel.Application.UseCases\\SuperTravel.Application.UseCases.csproj"
+              },
+              "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Infrastructure\\SuperTravel.Infrastructure.EFcoreSqlServer\\SuperTravel.Infrastructure.EFcoreSqlServer.csproj": {
+                "projectPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Infrastructure\\SuperTravel.Infrastructure.EFcoreSqlServer\\SuperTravel.Infrastructure.EFcoreSqlServer.csproj"
+              },
+              "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Infrastructure\\SuperTravel.Infrastructure.ProxyRestCountries\\SuperTravel.Infrastructure.ProxyRestCountries.csproj": {
+                "projectPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Infrastructure\\SuperTravel.Infrastructure.ProxyRestCountries\\SuperTravel.Infrastructure.ProxyRestCountries.csproj"
+              },
+              "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Infrastructure\\SuperTravel.Infrastructure.UnityOfWork\\SuperTravel.Infrastructure.UnityOfWork.csproj": {
+                "projectPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.Infrastructure\\SuperTravel.Infrastructure.UnityOfWork\\SuperTravel.Infrastructure.UnityOfWork.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.InterfaceAdapter\\SuperTravel.InterfaceAdapter.WebApi\\SuperTravel.InterfaceAdapter.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.InterfaceAdapter\\SuperTravel.InterfaceAdapter.WebApi\\SuperTravel.InterfaceAdapter.WebApi.csproj",
+        "projectName": "SuperTravel.InterfaceAdapter.WebApi",
+        "projectPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.InterfaceAdapter\\SuperTravel.InterfaceAdapter.WebApi\\SuperTravel.InterfaceAdapter.WebApi.csproj",
+        "packagesPath": "C:\\Users\\niqel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.InterfaceAdapter\\SuperTravel.InterfaceAdapter.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\niqel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.InterfaceAdapter\\SuperTravel.InterfaceAdapter.IOCGetaway\\SuperTravel.InterfaceAdapter.IOCGetaway.csproj": {
+                "projectPath": "C:\\Users\\niqel\\source\\repos\\SuperTravel\\SuperTravel.InterfaceAdapter\\SuperTravel.InterfaceAdapter.IOCGetaway\\SuperTravel.InterfaceAdapter.IOCGetaway.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

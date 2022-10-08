@@ -1,0 +1,17 @@
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IUseCases\bin\Debug\net6.0\SuperTravel.Core.IUseCases.deps.json
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IUseCases\bin\Debug\net6.0\SuperTravel.Core.IUseCases.dll
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IUseCases\bin\Debug\net6.0\SuperTravel.Core.IUseCases.pdb
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IUseCases\bin\Debug\net6.0\SuperTravel.Core.DTOs.dll
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IUseCases\bin\Debug\net6.0\SuperTravel.Core.Entities.dll
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IUseCases\bin\Debug\net6.0\SuperTravel.Core.DTOs.pdb
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IUseCases\bin\Debug\net6.0\SuperTravel.Core.Entities.pdb
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IUseCases\obj\Debug\net6.0\SuperTravel.Core.IUseCases.csproj.AssemblyReference.cache
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IUseCases\obj\Debug\net6.0\SuperTravel.Core.IUseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IUseCases\obj\Debug\net6.0\SuperTravel.Core.IUseCases.AssemblyInfoInputs.cache
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IUseCases\obj\Debug\net6.0\SuperTravel.Core.IUseCases.AssemblyInfo.cs
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IUseCases\obj\Debug\net6.0\SuperTravel.Core.IUseCases.csproj.CoreCompileInputs.cache
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IUseCases\obj\Debug\net6.0\SuperTravel.Core.IUseCases.csproj.CopyComplete
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IUseCases\obj\Debug\net6.0\SuperTravel.Core.IUseCases.dll
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IUseCases\obj\Debug\net6.0\refint\SuperTravel.Core.IUseCases.dll
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IUseCases\obj\Debug\net6.0\SuperTravel.Core.IUseCases.pdb
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IUseCases\obj\Debug\net6.0\ref\SuperTravel.Core.IUseCases.dll

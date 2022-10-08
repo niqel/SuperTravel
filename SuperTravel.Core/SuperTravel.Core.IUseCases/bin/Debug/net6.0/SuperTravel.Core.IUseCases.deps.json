@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SuperTravel.Core.IUseCases/1.0.0": {
+        "dependencies": {
+          "SuperTravel.Core.DTOs": "1.0.0",
+          "SuperTravel.Core.Entities": "1.0.0"
+        },
+        "runtime": {
+          "SuperTravel.Core.IUseCases.dll": {}
+        }
+      },
+      "SuperTravel.Core.DTOs/1.0.0": {
+        "runtime": {
+          "SuperTravel.Core.DTOs.dll": {}
+        }
+      },
+      "SuperTravel.Core.Entities/1.0.0": {
+        "runtime": {
+          "SuperTravel.Core.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SuperTravel.Core.IUseCases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SuperTravel.Core.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SuperTravel.Core.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

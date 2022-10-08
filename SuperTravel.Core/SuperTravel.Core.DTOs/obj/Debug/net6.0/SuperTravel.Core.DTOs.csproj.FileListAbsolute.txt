@@ -1,0 +1,12 @@
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.DTOs\bin\Debug\net6.0\SuperTravel.Core.DTOs.deps.json
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.DTOs\bin\Debug\net6.0\SuperTravel.Core.DTOs.dll
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.DTOs\bin\Debug\net6.0\SuperTravel.Core.DTOs.pdb
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.DTOs\obj\Debug\net6.0\SuperTravel.Core.DTOs.csproj.AssemblyReference.cache
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.DTOs\obj\Debug\net6.0\SuperTravel.Core.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.DTOs\obj\Debug\net6.0\SuperTravel.Core.DTOs.AssemblyInfoInputs.cache
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.DTOs\obj\Debug\net6.0\SuperTravel.Core.DTOs.AssemblyInfo.cs
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.DTOs\obj\Debug\net6.0\SuperTravel.Core.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.DTOs\obj\Debug\net6.0\SuperTravel.Core.DTOs.dll
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.DTOs\obj\Debug\net6.0\refint\SuperTravel.Core.DTOs.dll
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.DTOs\obj\Debug\net6.0\SuperTravel.Core.DTOs.pdb
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.DTOs\obj\Debug\net6.0\ref\SuperTravel.Core.DTOs.dll

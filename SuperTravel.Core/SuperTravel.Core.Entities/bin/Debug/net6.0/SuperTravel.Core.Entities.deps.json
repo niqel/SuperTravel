@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SuperTravel.Core.Entities/1.0.0": {
+        "runtime": {
+          "SuperTravel.Core.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SuperTravel.Core.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

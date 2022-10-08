@@ -1,0 +1,15 @@
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IRepositories\bin\Debug\net6.0\SuperTravel.Core.IRepositories.deps.json
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IRepositories\bin\Debug\net6.0\SuperTravel.Core.IRepositories.dll
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IRepositories\bin\Debug\net6.0\SuperTravel.Core.IRepositories.pdb
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IRepositories\bin\Debug\net6.0\SuperTravel.Core.Entities.dll
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IRepositories\bin\Debug\net6.0\SuperTravel.Core.Entities.pdb
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IRepositories\obj\Debug\net6.0\SuperTravel.Core.IRepositories.csproj.AssemblyReference.cache
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IRepositories\obj\Debug\net6.0\SuperTravel.Core.IRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IRepositories\obj\Debug\net6.0\SuperTravel.Core.IRepositories.AssemblyInfoInputs.cache
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IRepositories\obj\Debug\net6.0\SuperTravel.Core.IRepositories.AssemblyInfo.cs
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IRepositories\obj\Debug\net6.0\SuperTravel.Core.IRepositories.csproj.CoreCompileInputs.cache
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IRepositories\obj\Debug\net6.0\SuperTravel.Core.IRepositories.csproj.CopyComplete
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IRepositories\obj\Debug\net6.0\SuperTravel.Core.IRepositories.dll
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IRepositories\obj\Debug\net6.0\refint\SuperTravel.Core.IRepositories.dll
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IRepositories\obj\Debug\net6.0\SuperTravel.Core.IRepositories.pdb
+C:\Users\niqel\source\repos\SuperTravel\SuperTravel.Core\SuperTravel.Core.IRepositories\obj\Debug\net6.0\ref\SuperTravel.Core.IRepositories.dll
